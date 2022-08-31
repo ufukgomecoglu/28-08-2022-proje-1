@@ -1,0 +1,14 @@
+C:\Users\asus\OneDrive\Documents\GitHub\28-08-2022-proje-1\Proje-1\obj\Debug\Proje-1.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Documents\GitHub\28-08-2022-proje-1\Proje-1\obj\Debug\Proje-1.csproj.SuggestedBindingRedirects.cache
+C:\Users\asus\OneDrive\Documents\GitHub\28-08-2022-proje-1\Proje-1\obj\Debug\Proje_1.Combobox.resources
+C:\Users\asus\OneDrive\Documents\GitHub\28-08-2022-proje-1\Proje-1\obj\Debug\Proje_1.Properties.Resources.resources
+C:\Users\asus\OneDrive\Documents\GitHub\28-08-2022-proje-1\Proje-1\obj\Debug\Proje-1.csproj.GenerateResource.cache
+C:\Users\asus\OneDrive\Documents\GitHub\28-08-2022-proje-1\Proje-1\obj\Debug\Proje-1.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Documents\GitHub\28-08-2022-proje-1\Proje-1\bin\Debug\Proje-1.exe.config
+C:\Users\asus\OneDrive\Documents\GitHub\28-08-2022-proje-1\Proje-1\bin\Debug\Proje-1.exe
+C:\Users\asus\OneDrive\Documents\GitHub\28-08-2022-proje-1\Proje-1\bin\Debug\Proje-1.pdb
+C:\Users\asus\OneDrive\Documents\GitHub\28-08-2022-proje-1\Proje-1\obj\Debug\Proje-1.exe
+C:\Users\asus\OneDrive\Documents\GitHub\28-08-2022-proje-1\Proje-1\obj\Debug\Proje-1.pdb
+C:\Users\asus\OneDrive\Documents\GitHub\28-08-2022-proje-1\Proje-1\bin\Debug\DataAccsessLayer.dll
+C:\Users\asus\OneDrive\Documents\GitHub\28-08-2022-proje-1\Proje-1\bin\Debug\DataAccsessLayer.pdb
+C:\Users\asus\OneDrive\Documents\GitHub\28-08-2022-proje-1\Proje-1\obj\Debug\Proje-1.csproj.CopyComplete
