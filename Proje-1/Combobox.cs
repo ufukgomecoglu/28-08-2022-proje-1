@@ -31,8 +31,8 @@ namespace Proje_1
             //Yöntem 1
             //comboBoxName.ValueMember = "ID";
             //comboBoxName.DataSource = dataModel.GetUser();
-            List < User > users = dataModel.GetUser();
             //Yöntem 2
+            //List< User > users = dataModel.GetUser();
             //List<User1> user1s = new List<User1>();
             //foreach (User item in users)
             //{
